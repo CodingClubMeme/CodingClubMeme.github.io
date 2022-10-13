@@ -1,3 +1,3 @@
-ClickerJs (Not Done Yet): [Click] (codingclubmeme.github.io/ClickerJs-1)
+ClickerJs (Not Done Yet): [Click] (https://codingclubmeme.github.io/ClickerJs-1)
 
-CrappyBird: [Click] (codingclubmeme.github.io/CrappyBird)
+CrappyBird: [Click] (https://codingclubmeme.github.io/CrappyBird)
